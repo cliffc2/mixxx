@@ -1,0 +1,2 @@
+# mixxx
+keyboard shortcuts config
